@@ -16,7 +16,7 @@ As tecnologias utilizadas neste projeto são:
 ## Instruções de Uso
 Clone este repositório em sua máquina local:
 ```sh
-git clone https://github.com/seu-usuario/flutuar-com.git
+git clone https://github.com/TamuraFelipe/explorer-stage02.git
 ```
 Abra o arquivo index.html em seu navegador de preferência.
 
@@ -25,6 +25,7 @@ Contribuições são sempre bem-vindas! Se você tiver alguma sugestão, correç
 
 ## Contato
 <a href="mailto:tamurafelipe@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/TamuraFelipe"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ## Licença
 Este projeto está licenciado sob a MIT License.
