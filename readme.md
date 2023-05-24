@@ -23,5 +23,8 @@ Abra o arquivo index.html em seu navegador de preferência.
 ## Contribuição
 Contribuições são sempre bem-vindas! Se você tiver alguma sugestão, correção de bugs ou melhorias para propor, sinta-se à vontade para abrir uma "issue" ou enviar um "pull request".
 
+## Contatos
+tamurafelipe@gmail.com
+
 ## Licença
 Este projeto está licenciado sob a MIT License.
