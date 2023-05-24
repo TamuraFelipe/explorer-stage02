@@ -1,4 +1,4 @@
-# Projeto Stage 02 - Explorer
+# Projeto Stage 02 - Explorer 🚀🚀🚀
 Este é o README do projeto Flutuar.com desenvolvido como parte do programa Explorer da Rocketseat.
 
 ## Descrição
