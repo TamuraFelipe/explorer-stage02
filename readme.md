@@ -4,6 +4,9 @@ Este é o README do projeto Flutuar.com desenvolvido como parte do programa Expl
 ## Descrição
 O projeto Flutuar.com é um desafio proposto no programa Explorer da Rocketseat. O objetivo deste projeto é praticar e aprimorar as habilidades em HTML5 e CSS3, utilizando conceitos de posicionamento e alinhamento em tela, fontes customizadas e espaçamentos.
 
+## Preview
+<img src="./assets/img-flutuar.png" alt="Preview do Site"/>
+
 ## Tecnologias Utilizadas
 As tecnologias utilizadas neste projeto são:
 
