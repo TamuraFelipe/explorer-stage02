@@ -24,7 +24,7 @@ Abra o arquivo index.html em seu navegador de preferência.
 Contribuições são sempre bem-vindas! Se você tiver alguma sugestão, correção de bugs ou melhorias para propor, sinta-se à vontade para abrir uma "issue" ou enviar um "pull request".
 
 ## Contatos
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:tamurafelipe@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ## Licença
 Este projeto está licenciado sob a MIT License.
