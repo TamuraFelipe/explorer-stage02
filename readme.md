@@ -10,8 +10,8 @@ O projeto Flutuar.com é um desafio proposto no programa Explorer da Rocketseat.
 ## Tecnologias Utilizadas
 As tecnologias utilizadas neste projeto são:
 
-- HTML5
-- CSS3
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 ## Instruções de Uso
 Clone este repositório em sua máquina local:
@@ -23,7 +23,7 @@ Abra o arquivo index.html em seu navegador de preferência.
 ## Contribuição
 Contribuições são sempre bem-vindas! Se você tiver alguma sugestão, correção de bugs ou melhorias para propor, sinta-se à vontade para abrir uma "issue" ou enviar um "pull request".
 
-## Contatos
+## Contato
 <a href="mailto:tamurafelipe@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ## Licença
