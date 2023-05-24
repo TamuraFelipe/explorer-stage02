@@ -10,10 +10,8 @@ O projeto Flutuar.com é um desafio proposto no programa Explorer da Rocketseat.
 ## Tecnologias Utilizadas
 As tecnologias utilizadas neste projeto são:
 
-HTML5
-CSS3
-Link do Desafio
-O desafio proposto pode ser acessado através do seguinte link: Projeto Flutuar.com
+- HTML5
+- CSS3
 
 ## Instruções de Uso
 Clone este repositório em sua máquina local:
